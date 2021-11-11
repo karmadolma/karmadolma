@@ -18,6 +18,7 @@
 📚 I love to read but I have no favorite books 😜.
 
 #### My Skills
+[![Build Status](https://travis-ci.com/karmadolma/karmadolma.svg?branch=master)](https://travis-ci.com/karmadolma/karmadolma)
 
 #### My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karmadolma&repo=Udacity-Project-1)](https://github.com/karmadolma/Udacity-Project-1.git)

@@ -27,8 +27,8 @@
 
 #### Currently Learning
 * Reading Naked Statistics by Charles Wheelan
-* Solving SQL puzzles from Advanced SQL Puzzles
-* Enrolled in Serious SQL by Danny
+* Solving SQL puzzles from Advanced SQL Puzzles site
+* Enrolled in Serious SQL by Danny Ma
 * Reading The Big Book of Small Python Projects by Al Sweigart
 
 #### Latest Blog Posts

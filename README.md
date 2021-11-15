@@ -20,13 +20,6 @@
 #### My Skills
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E37400?style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-ff5959.svg?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Microstrategy-2bace5.svg?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Analytics-f9ab00?style=for-the-badge&logo=google%20analytics&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/matplotlib-%23150458.svg?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/seaborn-7ecaec.svg?style=for-the-badge&logoColor=white" />
 
-
-#### My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karmadolma&repo=Udacity-Project-1)](https://github.com/karmadolma/Udacity-Project-1.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karmadolma&repo=Udacity-Project-2)](https://github.com/karmadolma/Udacity-Project-2.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karmadolma&repo=Udacity-Project-3)](https://github.com/karmadolma/Udacity-Project-3.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karmadolma&repo=Udacity-Project-4)](https://github.com/karmadolma/Udacity-Project-4.git)
-
 #### Currently Learning
 * Reading Naked Statistics by Charles Wheelan
 * Solving SQL puzzles from Advanced SQL Puzzles site

@@ -18,7 +18,8 @@
 📚 I love to read but I have no favorite books 😜.
 
 #### My Skills
-[![Build Status](https://travis-ci.com/karmadolma/karmadolma.svg?branch=master)](https://travis-ci.com/karmadolma/karmadolma)
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E37400?style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-ff5959.svg?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Microstrategy-2bace5.svg?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Analytics-f9ab00?style=for-the-badge&logo=google%20analytics&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/matplotlib-%23150458.svg?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/seaborn-7ecaec.svg?style=for-the-badge&logoColor=white" />
+
 
 #### My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karmadolma&repo=Udacity-Project-1)](https://github.com/karmadolma/Udacity-Project-1.git)
@@ -42,6 +43,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me
+
+<a href="https://www.linkedin.com/in/karma-dolma-gurung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)&link=https://www.linkedin.com/in/karma-dolma-gurung" /></a>
+<img src="https://img.shields.io/badge/karmadolma.grg@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)" />
+<a href="https://helokarma.com//"><img src="https://img.shields.io/badge/Website-e1306c?style=for-the-badge&logoColor=white)&link=https://helokarma.com/" /></a>
 
 <!--
 **karmadolma/karmadolma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

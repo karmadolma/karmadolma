@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced SQL: Using Recursion in Oracle?](https://helokarma.com/2021/11/17/advanced-sql-using/)
 - [Advanced SQL: Using Full Outer Joins](https://helokarma.com/2021/11/16/advanced-sql-using-joins/)
 - [SQL Interview Prep 8:  When is subquery a bad idea? A good idea?](https://helokarma.com/2021/11/15/sql-interview-prep-8-when-is-subquery-a-bad-idea-a-good-idea/)
 - [SQL Interview Prep 7:  Do temp tables make your code cleaner and faster, one of the two, or none? Why?](https://helokarma.com/2021/10/06/sql-interview-prep-7-do-temp-tables-make-your-code-cleaner-and-faster-one-of-the-two-or-none-why/)
 - [SQL Interview Prep 6:  For dealing with NULL values, why would I choose to use IFNULL vs. CASE WHEN?](https://helokarma.com/2021/10/05/sql-interview-prep-6-for-dealing-with-null-values-why-would-i-choose-to-use-ifnull-vs-case-when/)
-- [SQL Interview Prep 5:   LAG and LEAD are especially useful in what type of scenarios?](https://helokarma.com/2021/09/27/sql-interview-prep-5-lag-and-lead-are-especially-useful-in-what-type-of-scenarios/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

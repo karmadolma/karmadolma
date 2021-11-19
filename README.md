@@ -28,7 +28,7 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced SQL: Using In](https://helokarma.com/2021/11/19/advanced-sql-using-in/)
+- [Advanced SQL: Using Inner Join](https://helokarma.com/2021/11/19/advanced-sql-using-in/)
 - [Advanced SQL: Using Constraints in Oracle](https://helokarma.com/2021/11/19/advanced-sql-using-constraints-in-oracle/)
 - [Advanced SQL: Using Recursion in Oracle?](https://helokarma.com/2021/11/17/advanced-sql-using/)
 - [Advanced SQL: Using Full Outer Joins](https://helokarma.com/2021/11/16/advanced-sql-using-joins/)

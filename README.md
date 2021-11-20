@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced SQL: Using Pivot](https://helokarma.com/2021/11/20/advanced-sql-using-pivot/)
 - [Advanced SQL: Using Inner Join](https://helokarma.com/2021/11/19/advanced-sql-using-in/)
 - [Advanced SQL: Using Constraints in Oracle](https://helokarma.com/2021/11/19/advanced-sql-using-constraints-in-oracle/)
 - [Advanced SQL: Using Recursion in Oracle?](https://helokarma.com/2021/11/17/advanced-sql-using/)
 - [Advanced SQL: Using Full Outer Joins](https://helokarma.com/2021/11/16/advanced-sql-using-joins/)
-- [SQL Interview Prep 8:  When is subquery a bad idea? A good idea?](https://helokarma.com/2021/11/15/sql-interview-prep-8-when-is-subquery-a-bad-idea-a-good-idea/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

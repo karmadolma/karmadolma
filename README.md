@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced SQL: Using UNPIVOT&lpar;&rpar;](https://helokarma.com/2021/11/23/advanced-sql-2/)
 - [Advanced SQL: Using ROW_NUMBER&lpar;&rpar;](https://helokarma.com/2021/11/22/advanced-sql-using-2/)
 - [Advanced SQL: Using Count](https://helokarma.com/2021/11/21/advanced-sql/)
 - [Advanced SQL: Using Pivot](https://helokarma.com/2021/11/20/advanced-sql-using-pivot/)
 - [Advanced SQL: Using Inner Join](https://helokarma.com/2021/11/19/advanced-sql-using-in/)
-- [Advanced SQL: Using Constraints in Oracle](https://helokarma.com/2021/11/19/advanced-sql-using-constraints-in-oracle/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

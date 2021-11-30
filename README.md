@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced SQL: Using CASE](https://helokarma.com/2021/11/30/advanced-sql-using-case/)
 - [Advanced SQL: Using LIST_AGG&lpar;&rpar; and TO_CHAR&lpar;&rpar;](https://helokarma.com/2021/11/29/advanced-sql-using-list_agg-and-to_char/)
 - [Advance SQL: RUNNING SUM in PL/SQL](https://helokarma.com/2021/11/28/advance-sql-running-sum-in-pl-sql/)
 - [Advanced SQL: Using LEAD&lpar;&rpar; and TRUNC&lpar;&rpar;](https://helokarma.com/2021/11/27/advanced-sql-using-lead-and-trunc/)
 - [Advanced SQL: Using CrossJoin](https://helokarma.com/2021/11/26/advanced-sql-3/)
-- [Advanced SQL: Using Mean&lpar;&rpar;, Median&lpar;&rpar;, STATS_MODE&lpar;&rpar;, MAX&lpar;&rpar; and MIN&lpar;&rpar;](https://helokarma.com/2021/11/25/advanced-sql-using-mean-median-stats_mode-max-and-min/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

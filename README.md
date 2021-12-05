@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced SQL: Using NOT IN&lpar;&rpar;](https://helokarma.com/2021/12/05/advanced-sql-using-not-in/)
 - [Advanced SQL: Using RANK&lpar;&rpar;](https://helokarma.com/2021/12/04/advanced-sql-using-rank/)
 - [SQL Reading Day!](https://helokarma.com/2021/12/03/sql-reading-day/)
 - [Advanced SQL: Complex one](https://helokarma.com/2021/12/02/advanced-sql-complex-one-2/)
 - [Advanced SQL: Using Cross Join](https://helokarma.com/2021/12/01/advanced-sql-using-cross-join/)
-- [Advanced SQL: Using CASE](https://helokarma.com/2021/11/30/advanced-sql-using-case/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

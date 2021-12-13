@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advance SQL: Using Running COUNT&lpar;&rpar;](https://helokarma.com/2021/12/13/advance-sql-using-running-count/)
 - [Advance SQL: Using DELETE&lpar;&rpar;](https://helokarma.com/2021/12/11/advance-sql-using-delete/)
 - [Advanced SQL: Using PIVOT&lpar;&rpar;](https://helokarma.com/2021/12/10/advanced-sql-using-pivot-2/)
 - [Advance SQL: Using WINDOWS function](https://helokarma.com/2021/12/09/advance-sql-using-windows-function/)
 - [Advance SQL: Using BETWEEN](https://helokarma.com/2021/12/08/advance-sql-using-between/)
-- [Advance SQL: Using CROSS JOIN](https://helokarma.com/2021/12/07/advance-sql-using-cross-join/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced SQL: Using JOINS](https://helokarma.com/2021/12/19/advanced-sql-using-joins-2/)
 - [Advance SQL: Using Windows function](https://helokarma.com/2021/12/17/advance-sql-using-windows-function-2/)
 - [Advanced SQL: Using multiple methods to gauege the optimum solution](https://helokarma.com/2021/12/17/advanced-sql-using-multiple-methods-to-gauege-the-optimum-solution/)
 - [Advance SQL: Computed Column](https://helokarma.com/2021/12/15/advance-sql-computed-column/)
 - [Advance SQL: Complex Puzzle](https://helokarma.com/2021/12/14/advance-sql-complex-puzzle/)
-- [Advance SQL: Using Running COUNT&lpar;&rpar;](https://helokarma.com/2021/12/13/advance-sql-using-running-count/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

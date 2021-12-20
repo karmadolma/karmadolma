@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced SQL: Using IN](https://helokarma.com/2021/12/20/advanced-sql-using-in-2/)
 - [Advanced SQL: Using NOT IN](https://helokarma.com/2021/12/19/advanced-sql-using-not-in-2/)
 - [Advanced SQL: Using JOINS](https://helokarma.com/2021/12/19/advanced-sql-using-joins-2/)
 - [Advance SQL: Using Windows function](https://helokarma.com/2021/12/17/advance-sql-using-windows-function-2/)
 - [Advanced SQL: Using multiple methods to gauege the optimum solution](https://helokarma.com/2021/12/17/advanced-sql-using-multiple-methods-to-gauege-the-optimum-solution/)
-- [Advance SQL: Computed Column](https://helokarma.com/2021/12/15/advance-sql-computed-column/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

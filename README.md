@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Intermediate Tutorial Part 1](https://helokarma.com/2022/01/04/python-intermediate-tutorial-part-1/)
 - [Python Tutorial Part 2](https://helokarma.com/2022/01/01/python-tutorial-part-2/)
 - [Python Beginner Youtube Video: Part 1](https://helokarma.com/2021/12/30/python-beginner-youtube-video-part-1/)
 - [Advanced SQL: Using JOINS](https://helokarma.com/2021/12/23/advanced-sql-using-joins-5/)
 - [Advanced SQL: Using JOINS](https://helokarma.com/2021/12/22/advanced-sql-using-joins-4/)
-- [Advanced SQL: Using JOINS](https://helokarma.com/2021/12/21/advanced-sql-using-joins-3/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

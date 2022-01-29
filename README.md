@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced SQL: Sorting by a pre-specified sort order in Oracle SQL](https://helokarma.com/2022/01/29/advanced-sql-sorting-by-a-pre-specified-sort-order-in-oracle-sql/)
 - [Data Viz 2: Top 15 countries by GDP in Pandora Papers](https://helokarma.com/2022/01/29/data-viz-2-top-15-countries-by-gdp-in-pandora-papers/)
 - [Data Viz 1: The world through the lens of trade](https://helokarma.com/2022/01/29/data-viz-1-the-world-through-the-lens-of-trade/)
 - [Advanced SQL: Using MOD&lpar;&rpar;](https://helokarma.com/2022/01/28/advanced-sql-using-mod/)
 - [Python Intermediate Tutorial Part 1](https://helokarma.com/2022/01/04/python-intermediate-tutorial-part-1/)
-- [Python Tutorial Part 2](https://helokarma.com/2022/01/01/python-tutorial-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

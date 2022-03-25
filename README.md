@@ -28,11 +28,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Serious SQL – Data with Danny Day 3](https://helokarma.com/2022/03/25/serious-sql-data-with-danny-day-3/)
 - [Serious SQL – Data with Danny Day 1 &amp; 2](https://helokarma.com/2022/03/24/serious-sql-data-with-danny-day-1-2/)
 - [Update Alert!](https://helokarma.com/2022/02/17/update-alert/)
 - [Advanced SQL: Sorting by a pre-specified sort order in Oracle SQL](https://helokarma.com/2022/01/29/advanced-sql-sorting-by-a-pre-specified-sort-order-in-oracle-sql/)
 - [Data Viz 2: Top 15 countries by GDP in Pandora Papers](https://helokarma.com/2022/01/29/data-viz-2-top-15-countries-by-gdp-in-pandora-papers/)
-- [Data Viz 1: The world through the lens of trade](https://helokarma.com/2022/01/29/data-viz-1-the-world-through-the-lens-of-trade/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me

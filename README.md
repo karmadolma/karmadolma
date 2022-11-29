@@ -7,7 +7,7 @@
 
 #### About me
 
-👩🏻‍💻 I'm a Data Analyst working in SWIFT. <br>
+👩🏻‍💻 I'm a Data Analyst working in Central Group. <br>
 
 🧚 I love to tell stories using data.
 

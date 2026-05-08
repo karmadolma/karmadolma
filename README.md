@@ -7,7 +7,7 @@
 
 #### About me
 
-👩🏻‍💻 I'm a Data Analyst working in Central Group. <br>
+👩🏻‍💻 I'm a Data Analyst currently on a career break. <br>
 
 🧚 I love to tell stories using data.
 
@@ -27,18 +27,18 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Serious SQL – Data with Danny Day 4](https://helokarma.com/2022/03/27/serious-sql-data-with-danny-day-4/)
-- [Serious SQL – Data with Danny Day 3](https://helokarma.com/2022/03/25/serious-sql-data-with-danny-day-3/)
-- [Serious SQL – Data with Danny Day 1 &amp; 2](https://helokarma.com/2022/03/24/serious-sql-data-with-danny-day-1-2/)
-- [Update Alert!](https://helokarma.com/2022/02/17/update-alert/)
-- [Advanced SQL: Sorting by a pre-specified sort order in Oracle SQL](https://helokarma.com/2022/01/29/advanced-sql-sorting-by-a-pre-specified-sort-order-in-oracle-sql/)
+- [Serious SQL – Data with Danny Day 4](https://helokarma.wordpress.com/2022/03/27/serious-sql-data-with-danny-day-4/)
+- [Serious SQL – Data with Danny Day 3](https://helokarma.wordpress.com/2022/03/25/serious-sql-data-with-danny-day-3/)
+- [Serious SQL – Data with Danny Day 1 &amp; 2](https://helokarma.wordpress.com/2022/03/24/serious-sql-data-with-danny-day-1-2/)
+- [Update Alert!](https://helokarma.wordpress.com/2022/02/17/update-alert/)
+- [Advanced SQL: Sorting by a pre-specified sort order in Oracle SQL](https://helokarma.wordpress.com/2022/01/29/advanced-sql-sorting-by-a-pre-specified-sort-order-in-oracle-sql/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me
 
 <a href="https://www.linkedin.com/in/karma-dolma-gurung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)&link=https://www.linkedin.com/in/karma-dolma-gurung" /></a>
 <img src="https://img.shields.io/badge/karmadolma.grg@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)" />
-<a href="https://karmadolma.com//"><img src="https://img.shields.io/badge/Website-e1306c?style=for-the-badge&logoColor=white)&link=https://helokarma.com/" /></a>
+<a href="https://helokarma.wordpress.com//"><img src="https://img.shields.io/badge/Website-e1306c?style=for-the-badge&logoColor=white)&link=https://helokarma.com/" /></a>
 
 <!--
 **karmadolma/karmadolma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
